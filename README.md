@@ -10,18 +10,3 @@ Second shader is smile face
 to start the Shader you can use shaderstoy.com
 
 writen haders in cpp
-
-!
-!
-Waving flag
-Check and add some info
-
-Commit
-123
-Check
-Check
-1
-Com
-Update
-Check2
-Checking 
