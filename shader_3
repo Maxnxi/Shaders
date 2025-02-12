@@ -1,9 +1,4 @@
-// Starfield Tutorial by Martijn Steinrucken aka BigWings - 2020
-// countfrolic@gmail.com
-// License Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-// 
-// This is the end result of a tutorial on my YouTube channel The Art of Code
-// 
+
 
 #define NUM_LAYERS 4.
 
