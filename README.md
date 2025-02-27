@@ -4,8 +4,10 @@
 This repo is about shaders
  
 Add explanation to idea of shaders
-First shader is waving flag
-Second shader is smile face
+1) shader is waving flag
+2) shader is smile face
+3) space with stars
+
 
 to start the Shader you can use shaderstoy.com
 
